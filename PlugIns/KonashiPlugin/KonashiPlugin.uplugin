@@ -1,0 +1,25 @@
+{
+	"PluginFileVersion" : 3,
+
+	"FriendlyName" : "Konashi Blueprint Library",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Taro Nakamura",
+	"CreatedByURL" : "http://epicgames.com",
+	"EngineVersion" : 1579795,
+	"Description" : "Konashi Plugin",
+	"Category" : "Konashi Plugin",
+	
+	"Modules" :
+	[		
+		
+		{
+			"Name" : "KonashiBPLibrary",
+			"Type" : "Runtime",
+			"LoadingPhase" : "PreDefault"
+			
+		},
+
+		
+	]
+}

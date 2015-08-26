@@ -1,0 +1,10 @@
+# Unreal Project
+.DS_Store
+Saved/
+Intermediate/
+Binaries/
+Build/
+Plugins/KonashiPlugin/ThirdPartyFrameworks/Konashi/
+
+
+
