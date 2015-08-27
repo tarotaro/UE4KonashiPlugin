@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3DEDA3DE-1775-46D9-820D-AF58F440D565</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KonashiSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ACDC2E73623795DC6C363369477CCC68013123DA</key>
+		<string>bitbucket.org:tarotaro/ue4konashi.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KonashiSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ACDC2E73623795DC6C363369477CCC68013123DA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:tarotaro/ue4konashi.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ACDC2E73623795DC6C363369477CCC68013123DA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ACDC2E73623795DC6C363369477CCC68013123DA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KonashiSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
