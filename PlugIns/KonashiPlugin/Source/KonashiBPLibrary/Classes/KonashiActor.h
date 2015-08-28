@@ -113,10 +113,10 @@ class  KONASHIBPLIBRARY_API AKonashiActor : public AActor
     UFUNCTION(Category="KonashiBPLibrary", BlueprintImplementableEvent, meta=(DisplayName  = "Konashi Redy Event"))
     void OnReady();
     
-    UFUNCTION(Category="KonashiBPLibrary", BlueprintImplementableEvent, meta=(DisplayName  = "Konashi Redy Event"))
+    UFUNCTION(Category="KonashiBPLibrary", BlueprintImplementableEvent, meta=(DisplayName  = "OnDigitalInputDidChangeValue"))
     void OnDigitalInputDidChangeValue(EKonashiDigitalIOPinEnum pin,int32 value);
     
-    UFUNCTION(Category="KonashiBPLibrary", BlueprintImplementableEvent, meta=(DisplayName  = "Konashi Redy Event"))
+    UFUNCTION(Category="KonashiBPLibrary", BlueprintImplementableEvent, meta=(DisplayName  = "OnAnalogPinDidChangeValue"))
     void OnAnalogPinDidChangeValue(EKonashiAnalogIOPinEnum pin,int32 value);
 };
 
